@@ -1,7 +1,8 @@
 ### Hi there 👋
-
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsilvs&layout=compact&langs_count=7&theme=dark"/>
+- 🔭 I’m currently working on Java
 <!--
-**gabsilvs/gabsilvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+gabsilvs/gabsilvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
