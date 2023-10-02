@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi!
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsilvs&layout=compact&langs_count=7&theme=dark"/>
 - 🔭 I’m currently working on Java
+- 🌱 I’m currently learning mySQL
+- 📫 How to reach me: gab_svt on discord
+- 😄 Pronouns: he/him
 <!--
 gabsilvs/gabsilvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
