@@ -50,4 +50,7 @@ Here, you'll find a collection of my projects and contributions to the tech comm
 1. **ADAS Data Analysis**: A Power BI dashboard analyzing trends in advanced driving systems.  
 2. **Object Detection App**: Using YOLOv8 and OpenCV for real-time object detection.  
 3. **Custom Automation Scripts**: Automating repetitive tasks with Python, Selenium, and Java.  
-4. **Android Apps**: Simple and responsive mobile applications built with Flutter.  
+4. **Android Apps**: Simple and responsive mobile applications built with Flutter.
+
+  **[GIF animation of a tech circuit board](https://media.giphy.com/media/3oEduQAsbLdhvDRXa4/giphy.gif)** 
+    [GitHub Actions CI/CD Demo](https://github.com/GabrielSilveira/workflow-example) 🚀
