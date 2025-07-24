@@ -8,7 +8,7 @@
 
 ## ⚡ What I Build
 
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenczZHBib2U5MmY2NThqMmszNW83MDh3ZWs0YjhtdDR6OTdiMzI1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YMjjRZn9l4KIHZlnFp/giphy.gif" width="200"/>
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHB0dmxsNzJpMDA1b256aGxna3lkZTJ3ZTc4aTl5aWg1OWlvOXo5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LvtxIRg1Ly96E/giphy.gif" width="200"/>
 
 **Full-Stack Mobile Developer** specializing in:
 
@@ -23,10 +23,6 @@
 ---
 
 ## 🔥 Core Technologies
-
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFkOTVnY250aTFveHc2OXFsdGt0Zm1rMDlwcTFmeXNwbWh0azBoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DSxKEQoQix9hC/giphy.gif" width="250"/>
-</div>
 
 ### **Mobile & Frontend**
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
