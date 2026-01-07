@@ -1,8 +1,5 @@
 # 👨‍💻 Gabriel da Silveira Silvestre  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/UTek0q3N8osh8agH4Y/giphy.gif" width="500"/>
-</div>
 
 ---
 
